@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dwaynetherockjo-1dcT.aternos.me:63019",
+    "ip": "dwaynetherockjo-1dcT.aternos.me",
     "port": 63019,
     "version": "",
     "try-creative": false
